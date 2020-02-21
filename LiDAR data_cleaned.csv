@@ -1,0 +1,4918 @@
+agency,zone,classlevel,usable,dataset,date,reasonifnotusable,region,format,originalcategory,sensor,ICSMclassificationlevel,accuracy(m;vertical),accuracy(m;horizontal),Nadirpointdensity,avgpointdensity,lon_westbound,lon_eastbound,lat_southbound,lat_northbound,epsgcode,horizontaldatum,verticaldatum,sD,eD,dataquality
+Spatial Services,55,3,y,Araluen,15-Jan,NA,ARALUEN,LAS,1,ALS50 (SN101),3,0.3,0.8,1.03,1.61,149.9697575,149.9912146,-35.90962194,-35.89106443,28355,GDA94,AHD71 - using local Geoid model,2011-06-20,2011-07-12,"BatemansBay, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-07-08
+Acquisition End Date: 2011-07-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1981
+Number of Project Flight Lines: 31
+Flight Line Number: 5
+Average Swath Width: 951 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.61
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+BatemansBay, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-06-20
+Acquisition End Date: 2011-06-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1923
+Number of Project Flight Lines: 31
+Flight Line Number: 1
+Average Swath Width: 1007meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.61
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+BatemansBay, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-07-08
+Acquisition End Date: 2011-07-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1987
+Number of Project Flight Lines: 31
+Flight Line Number: 6
+Average Swath Width: 961meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.61
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+BatemansBay, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-07-08
+Acquisition End Date: 2011-07-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1979
+Number of Project Flight Lines: 31
+Flight Line Number: 3
+Average Swath Width: 960meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.61
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+BatemansBay, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-07-08
+Acquisition End Date: 2011-07-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1990
+Number of Project Flight Lines: 31
+Flight Line Number: 2
+Average Swath Width: 966meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.61
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+BatemansBay, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-07-08
+Acquisition End Date: 2011-07-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2006
+Number of Project Flight Lines: 31
+Flight Line Number: 4
+Average Swath Width: 970meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.61
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification"
+Spatial Services,56,3,y,BatesmansBay,11-Jun,NA,BatemansBay,LAS 1.2,3,ALS50ii,3,0.3,0.8,1.03,1.61,150.2382314,150.2609183,-35.66273253,-35.64421606,NA,GDA94,AHD71 - using local Geoid model,2011-05-16,2011-06-27,"
+Data Quality
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-16
+Acquisition End Date: 2011-06-27
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 - using local Geoid model
+Vertical Datum: MGA56
+Sensor:LiDAR
+Device Name: Leica ALS50-II (S/N : 101m)
+Flying Height (AGL): 1996
+Flying Direction: North East -South West
+Number of Runs: 23
+Number of Cross Runs: 2
+Swath Width: 882
+Description of Aerotriangulation Process Used: N/A
+Description of Rectification Process Used: N/A
+Spatial Accuracy Horizontal: 0.8m
+Spatial Accuracy Vertical: 0.3m
+Average Point Density (per sqm): 1.61
+Nadir Point Density: 1.03
+Laser Return Types:
+Laser FootPrint Size: 0.63
+Data Thinning: N/A
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Surface Type: N/A
+Product Type: Mass Points
+Classification Type: C3
+Grid Resolution: N/A
+Distribution Format: LAS
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+WMS: N/A
+"
+Spatial Services,55,3,y,Bega,13-Mar,NA,BEGA,LAS,1,ALS50 (SN101),3,0.3,0.8,1.02,1.59,149.786795,149.8085821,-36.99546302,-36.97692625,28355,GDA94,AHD71 - using local Geoid model,2013-03-10,2013-03-12,"Merimbula, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2013-03-12
+Acquisition End Date: 2013-03-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1983
+Number of Project Flight Lines: 28
+Flight Line Number: 4
+Average Swath Width: 1239 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Merimbula, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2013-03-12
+Acquisition End Date: 2013-03-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1986
+Number of Project Flight Lines: 28
+Flight Line Number: 5
+Average Swath Width: 978meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Merimbula, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2013-03-11
+Acquisition End Date: 2013-03-11
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1976
+Number of Project Flight Lines: 28
+Flight Line Number: 2
+Average Swath Width: 973meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Merimbula, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2013-03-11
+Acquisition End Date: 2013-03-11
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1980
+Number of Project Flight Lines: 28
+Flight Line Number: 7
+Average Swath Width: 961meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Merimbula, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2013-03-11
+Acquisition End Date: 2013-03-11
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1994
+Number of Project Flight Lines: 28
+Flight Line Number: 1
+Average Swath Width: 974meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Merimbula, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2013-03-11
+Acquisition End Date: 2013-03-11
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1991
+Number of Project Flight Lines: 28
+Flight Line Number: 3
+Average Swath Width: 966meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Merimbula, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2013-03-11
+Acquisition End Date: 2013-03-11
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1999
+Number of Project Flight Lines: 28
+Flight Line Number: 6
+Average Swath Width: 970meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,55,3,y,Berridale,11-Aug,NA,BERRIDALE,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.6,148.9376354,148.9594447,-36.29129549,-36.27291211,28355,GDA94,AHD71 - using local Geoid model,2011-08-24,2011-09-18,"CoomaTown, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-18
+Acquisition End Date: 2011-09-18
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2648
+Number of Project Flight Lines: 27
+Flight Line Number: 2
+Average Swath Width: 1432 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+CoomaTown, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-18
+Acquisition End Date: 2011-09-18
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2682
+Number of Project Flight Lines: 27
+Flight Line Number: 4
+Average Swath Width: 1493meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+CoomaTown, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-18
+Acquisition End Date: 2011-09-18
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2599
+Number of Project Flight Lines: 27
+Flight Line Number: 1
+Average Swath Width: 1383meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+CoomaTown, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-18
+Acquisition End Date: 2011-09-18
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2678
+Number of Project Flight Lines: 27
+Flight Line Number: 6
+Average Swath Width: 1449meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+CoomaTown, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-18
+Acquisition End Date: 2011-09-18
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2637
+Number of Project Flight Lines: 27
+Flight Line Number: 3
+Average Swath Width: 1450meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+CoomaTown, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-18
+Acquisition End Date: 2011-09-18
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2673
+Number of Project Flight Lines: 27
+Flight Line Number: 7
+Average Swath Width: 1423meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+CoomaTown, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-18
+Acquisition End Date: 2011-09-18
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2604
+Number of Project Flight Lines: 27
+Flight Line Number: 5
+Average Swath Width: 1386meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Bonalbo,16-Nov,NA,BONALBO,LAS,1,ALS50 (SN101),3,0.3,0.8,0.99,1.48,152.9589322,152.9794696,-29.00012356,-28.9820763,28356,GDA94,AHD71 - using local Geoid model,2016-11-14,2016-11-14,"Lismore100kWest, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-11-14
+Acquisition End Date: 2016-11-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1412
+Number of Project Flight Lines: 9
+Flight Line Number: 3
+Average Swath Width: 1365 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.48
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Lismore100kWest, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-11-14
+Acquisition End Date: 2016-11-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1388
+Number of Project Flight Lines: 9
+Flight Line Number: 2
+Average Swath Width: 1308meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.48
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Lismore100kWest, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-11-14
+Acquisition End Date: 2016-11-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1404
+Number of Project Flight Lines: 9
+Flight Line Number: 1
+Average Swath Width: 1304meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.48
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Bulahdelah,12-Aug,NA,BULAHDELAH,LAS,1,ALS50 (SN101),3,0.3,0.8,1.03,1.62,152.1935549,152.2149304,-32.21001717,-32.1921094,28356,GDA94,AHD71 - using local Geoid model,2012-08-17,2012-12-14,"Forster, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2100
+Number of Project Flight Lines: 60
+Flight Line Number: 1
+Average Swath Width: 905 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2103
+Number of Project Flight Lines: 60
+Flight Line Number: 3
+Average Swath Width: 907meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2104
+Number of Project Flight Lines: 60
+Flight Line Number: 6
+Average Swath Width: 903meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2120
+Number of Project Flight Lines: 60
+Flight Line Number: 7
+Average Swath Width: 914meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2087
+Number of Project Flight Lines: 60
+Flight Line Number: 4
+Average Swath Width: 903meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-09-08
+Acquisition End Date: 2012-09-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2090
+Number of Project Flight Lines: 60
+Flight Line Number: 5
+Average Swath Width: 963meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-09-08
+Acquisition End Date: 2012-09-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2113
+Number of Project Flight Lines: 60
+Flight Line Number: 2
+Average Swath Width: 915meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Burragorang,13-Apr,NA,BURRAGORANG,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.55,150.4548067,150.4770826,-34.38696713,-34.36939838,28356,GDA94,AHD71 - using local Geoid model,2016-07-02,2016-07-02,"Wollongong100kWest, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-07-02
+Acquisition End Date: 2016-07-02
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2220
+Number of Project Flight Lines: 15
+Flight Line Number: 5
+Average Swath Width: 1232 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.55
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Wollongong100kWest, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-07-02
+Acquisition End Date: 2016-07-02
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2198
+Number of Project Flight Lines: 15
+Flight Line Number: 3
+Average Swath Width: 1189meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.55
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Wollongong100kWest, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-07-02
+Acquisition End Date: 2016-07-02
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2205
+Number of Project Flight Lines: 15
+Flight Line Number: 4
+Average Swath Width: 1201meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.55
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Wollongong100kWest, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-07-02
+Acquisition End Date: 2016-07-02
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2205
+Number of Project Flight Lines: 15
+Flight Line Number: 2
+Average Swath Width: 1189meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.55
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Wollongong100kWest, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-07-02
+Acquisition End Date: 2016-07-02
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2208
+Number of Project Flight Lines: 15
+Flight Line Number: 1
+Average Swath Width: 1291meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.55
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Camberwell,16-Jan,NA,CAMBERWELL,LAS,1,ALS80 (SN8146),3,0.3,0.8,0.99,1.27,151.4885888,151.5101673,-32.49219351,-32.47441123,28356,GDA94,AHD71 - using local Geoid model,2016-01-19,2016-01-20,"Dungog, Flightline 45
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-01-19
+Acquisition End Date: 2016-01-19
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8146)
+Average Flying Height (AGL): 2910
+Number of Project Flight Lines: 17
+Flight Line Number: 45
+Average Swath Width: 1920 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.27
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Dungog, Flightline 46
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-01-19
+Acquisition End Date: 2016-01-19
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8146)
+Average Flying Height (AGL): 2942
+Number of Project Flight Lines: 17
+Flight Line Number: 46
+Average Swath Width: 1936meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.27
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Dungog, Flightline 47
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-01-19
+Acquisition End Date: 2016-01-19
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8146)
+Average Flying Height (AGL): 2906
+Number of Project Flight Lines: 17
+Flight Line Number: 47
+Average Swath Width: 1917meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.27
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Dungog, Flightline 48
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2016-01-19
+Acquisition End Date: 2016-01-19
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8146)
+Average Flying Height (AGL): 2926
+Number of Project Flight Lines: 17
+Flight Line Number: 48
+Average Swath Width: 1931meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.27
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,55,3,y,Canberra,17-Dec,NA,CANBERRA,LAS,1,ALS80 (SN8250),3,0.3,0.8,1.02,1.64,148.99855,149.0200542,-35.17248348,-35.15409605,28355,GDA94,AHD71 - using local Geoid model,2017-12-11,2017-12-12,"Canberra100k, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-12-11
+Acquisition End Date: 2017-12-11
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3488
+Number of Project Flight Lines: 20
+Flight Line Number: 3
+Average Swath Width: 2642 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.64
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Canberra100k, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-12-11
+Acquisition End Date: 2017-12-11
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3494
+Number of Project Flight Lines: 20
+Flight Line Number: 2
+Average Swath Width: 2555meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.64
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Canberra100k, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-12-11
+Acquisition End Date: 2017-12-11
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3508
+Number of Project Flight Lines: 20
+Flight Line Number: 1
+Average Swath Width: 2627meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.64
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Carrai,15-May,NA,CARRAI,LAS,2,ALS50 (SN101),3,0.3,0.8,0.25,0.38,151.9944348,152.0155668,-30.99967664,-30.98179426,28356,GDA94,AHD71 - using local Geoid model,2015-05-26,2015-09-30,"Armidale100k, Flightline 34
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-09-30
+Acquisition End Date: 2015-09-30
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 3676
+Number of Project Flight Lines: 38
+Flight Line Number: 34
+Average Swath Width: 2547 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.38
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Armidale100k, Flightline 35
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-09-30
+Acquisition End Date: 2015-09-30
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 3694
+Number of Project Flight Lines: 38
+Flight Line Number: 35
+Average Swath Width: 2508meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.38
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Armidale100k, Flightline 36
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-09-29
+Acquisition End Date: 2015-09-29
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 3675
+Number of Project Flight Lines: 38
+Flight Line Number: 36
+Average Swath Width: 2514meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.38
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Cessnock,11-Oct,NA,CESSNOCK,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.6,150.9943867,151.0161109,-32.70173323,-32.68404176,28356,GDA94,AHD71 - using local Geoid model,2011-10-19,2011-11-27,"Singleton, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-11-27
+Acquisition End Date: 2011-11-27
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2015
+Number of Project Flight Lines: 55
+Flight Line Number: 4
+Average Swath Width: 978 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-11-27
+Acquisition End Date: 2011-11-27
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2021
+Number of Project Flight Lines: 55
+Flight Line Number: 3
+Average Swath Width: 974meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-11-27
+Acquisition End Date: 2011-11-27
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2020
+Number of Project Flight Lines: 55
+Flight Line Number: 5
+Average Swath Width: 977meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-10-20
+Acquisition End Date: 2011-10-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2002
+Number of Project Flight Lines: 55
+Flight Line Number: 6
+Average Swath Width: 975meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-10-20
+Acquisition End Date: 2011-10-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1975
+Number of Project Flight Lines: 55
+Flight Line Number: 7
+Average Swath Width: 975meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 8
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-10-20
+Acquisition End Date: 2011-10-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1984
+Number of Project Flight Lines: 55
+Flight Line Number: 8
+Average Swath Width: 994meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 9
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-10-20
+Acquisition End Date: 2011-10-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1984
+Number of Project Flight Lines: 55
+Flight Line Number: 9
+Average Swath Width: 973meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Coaldale,10-Mar,NA,COALDALE,LAS,1,ALS50 (SN101),3,0.3,0.8,1.04,1.62,152.9380947,152.9587371,-29.50555058,-29.487508,28356,GDA94,AHD71 - using local Geoid model,2010-03-17,2010-04-28,"Grafton, Flightline 26
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-04-25
+Acquisition End Date: 2010-04-25
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1990
+Number of Project Flight Lines: 72
+Flight Line Number: 26
+Average Swath Width: 949 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Grafton, Flightline 27
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-04-25
+Acquisition End Date: 2010-04-25
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1999
+Number of Project Flight Lines: 72
+Flight Line Number: 27
+Average Swath Width: 970meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Grafton, Flightline 30
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-04-25
+Acquisition End Date: 2010-04-25
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1995
+Number of Project Flight Lines: 72
+Flight Line Number: 30
+Average Swath Width: 959meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Grafton, Flightline 25
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-04-26
+Acquisition End Date: 2010-04-26
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1996
+Number of Project Flight Lines: 72
+Flight Line Number: 25
+Average Swath Width: 951meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Grafton, Flightline 28
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-04-26
+Acquisition End Date: 2010-04-26
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1999
+Number of Project Flight Lines: 72
+Flight Line Number: 28
+Average Swath Width: 1031meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Grafton, Flightline 29
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-04-26
+Acquisition End Date: 2010-04-26
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2002
+Number of Project Flight Lines: 72
+Flight Line Number: 29
+Average Swath Width: 966meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification"
+Spatial Services,55,3,y,Cobargo,11-Aug,NA,COBARGO,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.6,149.9583943,149.9799279,-36.19829123,-36.17973271,28355,GDA94,AHD71 - using local Geoid model,2011-08-25,2011-09-16,"Narooma, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-16
+Acquisition End Date: 2011-09-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2013
+Number of Project Flight Lines: 32
+Flight Line Number: 4
+Average Swath Width: 970 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Narooma, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-16
+Acquisition End Date: 2011-09-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1980
+Number of Project Flight Lines: 32
+Flight Line Number: 5
+Average Swath Width: 950meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Narooma, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-16
+Acquisition End Date: 2011-09-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1985
+Number of Project Flight Lines: 32
+Flight Line Number: 2
+Average Swath Width: 984meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Narooma, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-09-16
+Acquisition End Date: 2011-09-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1999
+Number of Project Flight Lines: 32
+Flight Line Number: 7
+Average Swath Width: 1061meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Narooma, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-25
+Acquisition End Date: 2011-08-25
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2015
+Number of Project Flight Lines: 32
+Flight Line Number: 3
+Average Swath Width: 967meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Narooma, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-25
+Acquisition End Date: 2011-08-25
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2007
+Number of Project Flight Lines: 32
+Flight Line Number: 6
+Average Swath Width: 981meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Dorrigo,09-Dec,NA,DORRIGO,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.56,152.8124266,152.8332988,-30.49813684,-30.48011736,28356,GDA94,AHD71 - using local Geoid model,2009-12-16,2010-02-20,"Nambucca, Flightline 62
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-01-10
+Acquisition End Date: 2010-01-10
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2094
+Number of Project Flight Lines: 61
+Flight Line Number: 62
+Average Swath Width: 1679 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2014
+Number of Project Flight Lines: 61
+Flight Line Number: 2
+Average Swath Width: 962meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2016
+Number of Project Flight Lines: 61
+Flight Line Number: 3
+Average Swath Width: 959meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2012
+Number of Project Flight Lines: 61
+Flight Line Number: 4
+Average Swath Width: 955meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2015
+Number of Project Flight Lines: 61
+Flight Line Number: 5
+Average Swath Width: 985meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2013
+Number of Project Flight Lines: 61
+Flight Line Number: 6
+Average Swath Width: 955meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2015
+Number of Project Flight Lines: 61
+Flight Line Number: 7
+Average Swath Width: 962meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 8
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2014
+Number of Project Flight Lines: 61
+Flight Line Number: 8
+Average Swath Width: 995meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 9
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2013
+Number of Project Flight Lines: 61
+Flight Line Number: 9
+Average Swath Width: 974meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 65
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-02-20
+Acquisition End Date: 2010-02-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2323
+Number of Project Flight Lines: 61
+Flight Line Number: 65
+Average Swath Width: 1650meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Drake,15-Jun,NA,DRAKE,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.56,151.9939019,152.0146032,-28.99636489,-28.97846769,28356,GDA94,AHD71 - using local Geoid model,2015-06-01,2015-09-08,"MacIntyreCatchment, Flightline 104
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-06-04
+Acquisition End Date: 2015-06-04
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2734
+Number of Project Flight Lines: 59
+Flight Line Number: 104
+Average Swath Width: 1494 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+MacIntyreCatchment, Flightline 103
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-06-04
+Acquisition End Date: 2015-06-04
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2743
+Number of Project Flight Lines: 59
+Flight Line Number: 103
+Average Swath Width: 1503meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+MacIntyreCatchment, Flightline 102
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-06-04
+Acquisition End Date: 2015-06-04
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2756
+Number of Project Flight Lines: 59
+Flight Line Number: 102
+Average Swath Width: 1650meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+MacIntyreCatchment, Flightline 101
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-06-04
+Acquisition End Date: 2015-06-04
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2749
+Number of Project Flight Lines: 59
+Flight Line Number: 101
+Average Swath Width: 1497meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+MacIntyreCatchment, Flightline 106
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-09-08
+Acquisition End Date: 2015-09-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2751
+Number of Project Flight Lines: 59
+Flight Line Number: 106
+Average Swath Width: 1474meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+MacIntyreCatchment, Flightline 105
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2015-09-08
+Acquisition End Date: 2015-09-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2743
+Number of Project Flight Lines: 59
+Flight Line Number: 105
+Average Swath Width: 1479meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Dungog,12-Dec,NA,DUNGOG,LAS,1,ALS50 (SN101),3,0.3,0.8,1.01,1.56,151.8716886,151.8931949,-32.49621215,-32.47836237,28356,GDA94,AHD71 - using local Geoid model,2012-12-14,2013-07-05,"PortStephens, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-15
+Acquisition End Date: 2012-12-15
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1742
+Number of Project Flight Lines: 64
+Flight Line Number: 5
+Average Swath Width: 988 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+PortStephens, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-15
+Acquisition End Date: 2012-12-15
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1743
+Number of Project Flight Lines: 64
+Flight Line Number: 6
+Average Swath Width: 995meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+PortStephens, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-15
+Acquisition End Date: 2012-12-15
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1754
+Number of Project Flight Lines: 64
+Flight Line Number: 7
+Average Swath Width: 998meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+PortStephens, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-15
+Acquisition End Date: 2012-12-15
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1748
+Number of Project Flight Lines: 64
+Flight Line Number: 3
+Average Swath Width: 1001meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+PortStephens, Flightline 8
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-15
+Acquisition End Date: 2012-12-15
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1750
+Number of Project Flight Lines: 64
+Flight Line Number: 8
+Average Swath Width: 996meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+PortStephens, Flightline 9
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-15
+Acquisition End Date: 2012-12-15
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1751
+Number of Project Flight Lines: 64
+Flight Line Number: 9
+Average Swath Width: 996meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+PortStephens, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-16
+Acquisition End Date: 2012-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1750
+Number of Project Flight Lines: 64
+Flight Line Number: 2
+Average Swath Width: 1002meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+PortStephens, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-16
+Acquisition End Date: 2012-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1734
+Number of Project Flight Lines: 64
+Flight Line Number: 4
+Average Swath Width: 980meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Ebor,18-Jan,NA,EBOR,LAS,2,ALS80 (SN8250),3,0.3,0.8,0.28,0.46,151.9996704,152.0206888,-30.49443397,-30.47654696,28356,GDA94,AHD71 - using local Geoid model,2018-01-18,2018-01-19,"Ebor100k, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2018-01-19
+Acquisition End Date: 2018-01-19
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 5490
+Number of Project Flight Lines: 28
+Flight Line Number: 2
+Average Swath Width: 3890 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.46
+Nadir Point Density: 0.28
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Ebor100k, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2018-01-19
+Acquisition End Date: 2018-01-19
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 5487
+Number of Project Flight Lines: 28
+Flight Line Number: 4
+Average Swath Width: 3275meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.46
+Nadir Point Density: 0.28
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Ebor100k, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2018-01-19
+Acquisition End Date: 2018-01-19
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 5475
+Number of Project Flight Lines: 28
+Flight Line Number: 3
+Average Swath Width: 3430meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.46
+Nadir Point Density: 0.28
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Ebor100k, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2018-01-18
+Acquisition End Date: 2018-01-18
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 5493
+Number of Project Flight Lines: 28
+Flight Line Number: 1
+Average Swath Width: 3260meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.46
+Nadir Point Density: 0.28
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,55,3,y,Eden,11-Aug,NA,EDEN,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.6,149.8390796,149.8609066,-37.19247048,-37.17392279,28355,GDA94,AHD71 - using local Geoid model,2011-08-23,2011-08-24,"Wonboyn, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-24
+Acquisition End Date: 2011-08-24
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1978
+Number of Project Flight Lines: 31
+Flight Line Number: 5
+Average Swath Width: 953 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Wonboyn, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-24
+Acquisition End Date: 2011-08-24
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1983
+Number of Project Flight Lines: 31
+Flight Line Number: 3
+Average Swath Width: 948meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Wonboyn, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-24
+Acquisition End Date: 2011-08-24
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1994
+Number of Project Flight Lines: 31
+Flight Line Number: 4
+Average Swath Width: 960meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Wonboyn, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-24
+Acquisition End Date: 2011-08-24
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2001
+Number of Project Flight Lines: 31
+Flight Line Number: 2
+Average Swath Width: 957meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Wonboyn, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-24
+Acquisition End Date: 2011-08-24
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2003
+Number of Project Flight Lines: 31
+Flight Line Number: 1
+Average Swath Width: 958meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Gosford,11-May,NA,GOSFORD,LAS,1,ALS50 (SN101),3,0.3,0.8,1.04,1.62,150.997799,151.0197273,-33.49537135,-33.47768877,28356,GDA94,AHD71 - using local Geoid model,2011-05-10,2011-05-27,"HawkesburyNorth, Flightline 27
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1994
+Number of Project Flight Lines: 42
+Flight Line Number: 27
+Average Swath Width: 957 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 25
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1991
+Number of Project Flight Lines: 42
+Flight Line Number: 25
+Average Swath Width: 956meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 26
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2001
+Number of Project Flight Lines: 42
+Flight Line Number: 26
+Average Swath Width: 960meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 24
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1988
+Number of Project Flight Lines: 42
+Flight Line Number: 24
+Average Swath Width: 985meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 23
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1984
+Number of Project Flight Lines: 42
+Flight Line Number: 23
+Average Swath Width: 980meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 22
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1998
+Number of Project Flight Lines: 42
+Flight Line Number: 22
+Average Swath Width: 959meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,HowesValley,11-Oct,NA,HOWES VALLEY,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.6,150.9738766,150.9955954,-32.66532959,-32.64764139,28356,GDA94,AHD71 - using local Geoid model,2011-10-19,2011-11-27,"Singleton, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-11-27
+Acquisition End Date: 2011-11-27
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2015
+Number of Project Flight Lines: 55
+Flight Line Number: 4
+Average Swath Width: 978 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-11-27
+Acquisition End Date: 2011-11-27
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2021
+Number of Project Flight Lines: 55
+Flight Line Number: 3
+Average Swath Width: 974meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-11-27
+Acquisition End Date: 2011-11-27
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2020
+Number of Project Flight Lines: 55
+Flight Line Number: 5
+Average Swath Width: 977meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-10-20
+Acquisition End Date: 2011-10-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2002
+Number of Project Flight Lines: 55
+Flight Line Number: 6
+Average Swath Width: 975meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-10-20
+Acquisition End Date: 2011-10-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1975
+Number of Project Flight Lines: 55
+Flight Line Number: 7
+Average Swath Width: 975meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Singleton, Flightline 8
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-10-20
+Acquisition End Date: 2011-10-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1984
+Number of Project Flight Lines: 55
+Flight Line Number: 8
+Average Swath Width: 994meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.60
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Katoomba,11-Aug,NA,KATOOMBA,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.5,150.0496045,150.0717232,-33.53050279,-33.51299821,28356,GDA94,AHD71 - using local Geoid model,2011-08-03,2011-08-03,"LithgowTown, Flightline 26
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2747
+Number of Project Flight Lines: 29
+Flight Line Number: 26
+Average Swath Width: 1462 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 25
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2750
+Number of Project Flight Lines: 29
+Flight Line Number: 25
+Average Swath Width: 1449meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 29
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2751
+Number of Project Flight Lines: 29
+Flight Line Number: 29
+Average Swath Width: 1416meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 24
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2748
+Number of Project Flight Lines: 29
+Flight Line Number: 24
+Average Swath Width: 1443meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 28
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2742
+Number of Project Flight Lines: 29
+Flight Line Number: 28
+Average Swath Width: 1455meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 27
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2760
+Number of Project Flight Lines: 29
+Flight Line Number: 27
+Average Swath Width: 1431meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Kiama,11-Mar,NA,Kiama,LAS 1.2,3,ALS50ii,3,0.3,0.8,1.03,0.79,150.6387327,150.6610894,-34.80578264,-34.78734033,NA,GDA94,AHD71 - using local Geoid model,2010-12-20,2011-03-22,"
+Data Quality
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-20
+Acquisition End Date: 2011-03-22
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 - using local Geoid model
+Vertical Datum: MGA56
+Sensor:LiDAR
+Device Name: Leica ALS50-II (S/N : 101m)
+Flying Height (AGL): 1992
+Flying Direction: UNK
+Number of Runs: 43
+Number of Cross Runs:
+Swath Width: 956.47
+Description of Aerotriangulation Process Used: N/A
+Description of Rectification Process Used: N/A
+Spatial Accuracy Horizontal: 0.8m
+Spatial Accuracy Vertical: 0.3m
+Average Point Density (per sqm): 0.79
+Nadir Point Density: 1.03
+Laser Return Types:
+Laser FootPrint Size: 0.79
+Data Thinning: N/A
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Surface Type: N/A
+Product Type: Mass Points
+Classification Type: C3
+Grid Resolution: N/A
+Distribution Format: LAS
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+WMS: N/A
+"
+Spatial Services,55,3,y,Kosciuszko,17-Feb,NA,KOSCIUSZKO,LAS,2,ALS50 (SN092),3,0.3,0.8,0.25,0.4,148.0010339,148.0230415,-36.19462617,-36.17640963,28355,GDA94,AHD71 - using local Geoid model,2017-02-13,2017-05-22,"Kosciuszko100k, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-02-13
+Acquisition End Date: 2017-02-13
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 5240
+Number of Project Flight Lines: 55
+Flight Line Number: 4
+Average Swath Width: 1838 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.40
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Kosciuszko100k, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-02-13
+Acquisition End Date: 2017-02-13
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 5209
+Number of Project Flight Lines: 55
+Flight Line Number: 3
+Average Swath Width: 1827meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.40
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Kosciuszko100k, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-02-13
+Acquisition End Date: 2017-02-13
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 5225
+Number of Project Flight Lines: 55
+Flight Line Number: 2
+Average Swath Width: 1897meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.40
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Lismore,10-Jun,NA,LISMORE,LAS,1,ALS50 (SN101),3,0.3,0.8,1.02,1.59,153.0205161,153.0410251,-28.90986797,-28.89181109,28356,GDA94,AHD71 - using local Geoid model,2010-06-26,2010-08-27,"Lismore, Flightline 27
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-06-30
+Acquisition End Date: 2010-06-30
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2008
+Number of Project Flight Lines: 42
+Flight Line Number: 27
+Average Swath Width: 960 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Lismore, Flightline 28
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-06-30
+Acquisition End Date: 2010-06-30
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1994
+Number of Project Flight Lines: 42
+Flight Line Number: 28
+Average Swath Width: 975meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Lismore, Flightline 22
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-07-03
+Acquisition End Date: 2010-07-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1994
+Number of Project Flight Lines: 42
+Flight Line Number: 22
+Average Swath Width: 974meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Lismore, Flightline 23
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-07-03
+Acquisition End Date: 2010-07-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1998
+Number of Project Flight Lines: 42
+Flight Line Number: 23
+Average Swath Width: 966meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Lismore, Flightline 24
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-07-03
+Acquisition End Date: 2010-07-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1997
+Number of Project Flight Lines: 42
+Flight Line Number: 24
+Average Swath Width: 959meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Lismore, Flightline 25
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-07-03
+Acquisition End Date: 2010-07-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1989
+Number of Project Flight Lines: 42
+Flight Line Number: 25
+Average Swath Width: 1003meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Lismore, Flightline 26
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-07-03
+Acquisition End Date: 2010-07-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1991
+Number of Project Flight Lines: 42
+Flight Line Number: 26
+Average Swath Width: 966meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.59
+Nadir Point Density: 1.02
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Macksville,09-Dec,NA,MACKSVILLE,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.56,152.7491585,152.7701047,-30.78678828,-30.76878011,28356,GDA94,AHD71 - using local Geoid model,2009-12-16,2010-02-20,"Nambucca, Flightline 11
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-17
+Acquisition End Date: 2009-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2034
+Number of Project Flight Lines: 61
+Flight Line Number: 11
+Average Swath Width: 971 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2013
+Number of Project Flight Lines: 61
+Flight Line Number: 6
+Average Swath Width: 955meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2015
+Number of Project Flight Lines: 61
+Flight Line Number: 7
+Average Swath Width: 962meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 8
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2014
+Number of Project Flight Lines: 61
+Flight Line Number: 8
+Average Swath Width: 995meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 9
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2013
+Number of Project Flight Lines: 61
+Flight Line Number: 9
+Average Swath Width: 974meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nambucca, Flightline 10
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2009-12-16
+Acquisition End Date: 2009-12-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2013
+Number of Project Flight Lines: 61
+Flight Line Number: 10
+Average Swath Width: 999meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Merriwa,17-Oct,NA,GULGONG,LAS,2,ALS80 (SN8250),3,0.3,0.8,0.63,0.98,149.9785352,150.0003856,-32.46498905,-32.44748024,28356,GDA94,AHD71 - using local Geoid model,2017-09-30,2017-11-02,"Merriwa100k, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-09-30
+Acquisition End Date: 2017-09-30
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3675
+Number of Project Flight Lines: 23
+Flight Line Number: 3
+Average Swath Width: 3105 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.98
+Nadir Point Density: 0.63
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Merriwa100k, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-09-30
+Acquisition End Date: 2017-09-30
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3658
+Number of Project Flight Lines: 23
+Flight Line Number: 2
+Average Swath Width: 3186meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.98
+Nadir Point Density: 0.63
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Merriwa100k, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-09-30
+Acquisition End Date: 2017-09-30
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3658
+Number of Project Flight Lines: 23
+Flight Line Number: 1
+Average Swath Width: 3052meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.98
+Nadir Point Density: 0.63
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,MossVale,10-Dec,NA,MOSS VALE,LAS,1,ALS50 (SN101),3,0.3,0.8,1.04,1.62,150.479763,150.5022073,-35.00049048,-34.98292566,28356,GDA94,AHD71 - using local Geoid model,2010-12-16,2011-04-13,"Nowra, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1973
+Number of Project Flight Lines: 54
+Flight Line Number: 5
+Average Swath Width: 947 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2001
+Number of Project Flight Lines: 54
+Flight Line Number: 4
+Average Swath Width: 964meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1982
+Number of Project Flight Lines: 54
+Flight Line Number: 6
+Average Swath Width: 965meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2001
+Number of Project Flight Lines: 54
+Flight Line Number: 2
+Average Swath Width: 957meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1994
+Number of Project Flight Lines: 54
+Flight Line Number: 3
+Average Swath Width: 953meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1987
+Number of Project Flight Lines: 54
+Flight Line Number: 1
+Average Swath Width: 961meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,MountLindesay,17-Sep,NA,MOUNT LINDESAY,LAS,2,ALS80 (SN8250,3,0.3,0.8,0.44,0.77,152.4898188,152.5103082,-28.3492746,-28.33129637,28356,GDA94,AHD71 - using local Geoid model,2017-09-10,2017-12-08,"Border100k, Flightline 26
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-12-08
+Acquisition End Date: 2017-12-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3816
+Number of Project Flight Lines: 60
+Flight Line Number: 26
+Average Swath Width: 2471 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.77
+Nadir Point Density: 0.44
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Border100k, Flightline 28
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-12-08
+Acquisition End Date: 2017-12-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3805
+Number of Project Flight Lines: 60
+Flight Line Number: 28
+Average Swath Width: 2570meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.77
+Nadir Point Density: 0.44
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Border100k, Flightline 27
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-12-08
+Acquisition End Date: 2017-12-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3813
+Number of Project Flight Lines: 60
+Flight Line Number: 27
+Average Swath Width: 2482meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.77
+Nadir Point Density: 0.44
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Border100k, Flightline 29
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-12-08
+Acquisition End Date: 2017-12-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3824
+Number of Project Flight Lines: 60
+Flight Line Number: 29
+Average Swath Width: 2583meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.77
+Nadir Point Density: 0.44
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Border100k, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-12-05
+Acquisition End Date: 2017-12-05
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3757
+Number of Project Flight Lines: 60
+Flight Line Number: 6
+Average Swath Width: 2708meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.77
+Nadir Point Density: 0.44
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Border100k, Flightline 9
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-09-10
+Acquisition End Date: 2017-09-10
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3819
+Number of Project Flight Lines: 60
+Flight Line Number: 9
+Average Swath Width: 2699meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.77
+Nadir Point Density: 0.44
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Border100k, Flightline 8
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-09-10
+Acquisition End Date: 2017-09-10
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3807
+Number of Project Flight Lines: 60
+Flight Line Number: 8
+Average Swath Width: 2631meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.77
+Nadir Point Density: 0.44
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Border100k, Flightline 7
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-09-10
+Acquisition End Date: 2017-09-10
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 3817
+Number of Project Flight Lines: 60
+Flight Line Number: 7
+Average Swath Width: 2638meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.77
+Nadir Point Density: 0.44
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,MountPomany,17-May,NA,MUDGEE,LAS,2,ALS50 (SN092),3,0.3,0.8,0.25,0.37,149.9816076,150.0035988,-33.00599447,-32.9884941,28356,GDA94,AHD71 - using local Geoid model,2017-05-17,2017-07-06,"MountPomany100k, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-05-17
+Acquisition End Date: 2017-05-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 3623
+Number of Project Flight Lines: 38
+Flight Line Number: 3
+Average Swath Width: 2447 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.37
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+MountPomany100k, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-05-17
+Acquisition End Date: 2017-05-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 3622
+Number of Project Flight Lines: 38
+Flight Line Number: 2
+Average Swath Width: 2466meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.37
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+MountPomany100k, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-05-17
+Acquisition End Date: 2017-05-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 3633
+Number of Project Flight Lines: 38
+Flight Line Number: 1
+Average Swath Width: 2492meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.37
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Murwillumbah,10-Aug,NA,MURWILLUMBAH,LAS,1,ALS50 (SN101),3,0.3,0.8,1.05,1.65,153.4087017,153.4290633,-28.49404227,-28.4759265,28356,GDA94,AHD71 - using local Geoid model,2010-08-28,2010-09-11,"ByronBay, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-08-28
+Acquisition End Date: 2010-08-28
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1991
+Number of Project Flight Lines: 36
+Flight Line Number: 5
+Average Swath Width: 956 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.65
+Nadir Point Density: 1.05
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+ByronBay, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-08-28
+Acquisition End Date: 2010-08-28
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1990
+Number of Project Flight Lines: 36
+Flight Line Number: 4
+Average Swath Width: 955meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.65
+Nadir Point Density: 1.05
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+ByronBay, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-08-28
+Acquisition End Date: 2010-08-28
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1995
+Number of Project Flight Lines: 36
+Flight Line Number: 3
+Average Swath Width: 968meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.65
+Nadir Point Density: 1.05
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+ByronBay, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-08-28
+Acquisition End Date: 2010-08-28
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1991
+Number of Project Flight Lines: 36
+Flight Line Number: 2
+Average Swath Width: 973meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.65
+Nadir Point Density: 1.05
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+ByronBay, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-08-28
+Acquisition End Date: 2010-08-28
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1992
+Number of Project Flight Lines: 36
+Flight Line Number: 1
+Average Swath Width: 953meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.65
+Nadir Point Density: 1.05
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Muswellbrook,17-May,NA,MUSWELLBROOK,LAS,1,ALS50 (SN092),3,0.3,0.8,0.99,1.54,150.9562474,150.9779286,-32.50270972,-32.48502273,28356,GDA94,AHD71 - using local Geoid model,2017-05-16,2017-05-16,"Cessnock100kWest, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-05-16
+Acquisition End Date: 2017-05-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 2024
+Number of Project Flight Lines: 12
+Flight Line Number: 5
+Average Swath Width: 982 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.54
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Cessnock100kWest, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-05-16
+Acquisition End Date: 2017-05-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 2006
+Number of Project Flight Lines: 12
+Flight Line Number: 2
+Average Swath Width: 974meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.54
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Cessnock100kWest, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-05-16
+Acquisition End Date: 2017-05-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 2004
+Number of Project Flight Lines: 12
+Flight Line Number: 3
+Average Swath Width: 1007meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.54
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Cessnock100kWest, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-05-16
+Acquisition End Date: 2017-05-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 1985
+Number of Project Flight Lines: 12
+Flight Line Number: 4
+Average Swath Width: 987meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.54
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Cessnock100kWest, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-05-16
+Acquisition End Date: 2017-05-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 1980
+Number of Project Flight Lines: 12
+Flight Line Number: 1
+Average Swath Width: 957meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.54
+Nadir Point Density: 0.99
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Narooma,11-Aug,NA,Narooma,LAS 1.2,3,ALS50ii,3,0.3,0.8,1,1.6,149.9964847,150.0193892,-36.21574637,-36.1971838,28356,GDA94,AHD71 - using local Geoid model,2011-08-25,2011-09-16,"
+Data Quality
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-25
+Acquisition End Date: 2011-09-16
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 - using local Geoid model
+Vertical Datum: MGA56
+Sensor: LiDAR
+Device Name: Leica ALS50-II (S/N: 101m)
+Flying Height (AGL): 1988
+Flying Direction: North-South
+Number of Runs: 32
+Number of Cross Runs: 3
+Swath Width: 868
+Description of Aerotriangulation Process Used: N/A
+Description of Rectification Process Used: N/A
+Spatial Accuracy Horizontal: 0.8m
+Spatial Accuracy Vertical: 0.3m
+Average Point Density (per sqm): 1.6
+Nadir Point Density: 1
+Laser Return Types: 4 returns (1st 2nd 3rd 4th and intensity)
+Laser FootPrint Size: 0.63
+Data Thinning: N/A
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Surface Type: N/A
+Product Type: Mass Points
+Classification Type: C3
+Grid Resolution: N/A
+Distribution Format: LAS
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+WMS: N/A
+"
+Spatial Services,56,3,y,Newcastle,12-Feb,NA,Newcastle,LAS 1.2,3,ALS50ii,3,0.3,0.8,1,1.6,151.5032627,151.5249373,-32.88948241,-32.87119342,28356,GDA94,AHD71 - using local Geoid model,2012-02-16,2012-05-13,"
+Data Quality
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-02-16
+Acquisition End Date: 2012-05-13
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 - using local Geoid model
+Vertical Datum: MGA56
+Sensor: LiDAR
+Device Name: Leica ALS50-II (S/N: 101m)
+Flying Height (AGL): 2000
+Flying Direction: North East -South West
+Number of Runs: 44
+Number of Cross Runs: 2
+Swath Width: 963.14
+Description of Aerotriangulation Process Used: N/A
+Description of Rectification Process Used: N/A
+Spatial Accuracy Horizontal: 0.8m
+Spatial Accuracy Vertical: 0.3m
+Average Point Density (per sqm): 1.6
+Nadir Point Density: 1
+Laser Return Types: 4 returns (1st 2nd 3rd 4th and intensity)
+Laser FootPrint Size: 0.62
+Data Thinning: N/A
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Surface Type: N/A
+Product Type: Mass Points
+Classification Type: C3
+Grid Resolution: N/A
+Distribution Format: LAS
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+WMS: N/A
+"
+Spatial Services,56,3,y,PortHacking,13-Apr,NA,Port Hacking,LAS 1.2,3,ALS50ii,3,0.3,0.8,1.01,1.56,151.0021679,151.0242932,-34.23518967,-34.21681165,28356,GDA94,AHD71 - using local Geoid model,2013-04-11,2013-04-24,"
+Data Quality
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2013-04-11
+Acquisition End Date: 2013-04-24
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 - using local Geoid model
+Vertical Datum: MGA56
+Sensor: LiDAR
+Device Name: Leica ALS50-II (S/N: 101m)
+Flying Height (AGL): 1828
+Flying Direction: East - West
+Number of Runs: 43
+Number of Cross Runs: 3
+Swath Width: 1048.34
+Description of Aerotriangulation Process Used: N/A
+Description of Rectification Process Used: N/A
+Spatial Accuracy Horizontal: 0.8m
+Spatial Accuracy Vertical: 0.3m
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Laser Return Types: 4 returns (1st 2nd 3rd 4th and intensity)
+Laser FootPrint Size: 0.63
+Data Thinning: N/A
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Surface Type: N/A
+Product Type: Mass Points
+Classification Type: C3
+Grid Resolution: N/A
+Distribution Format: LAS
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+WMS: N/A
+"
+Spatial Services,56,3,y,PortStephens,12-Dec,NA,Port Stephens,LAS 1.2,3,ALS50ii,3,0.3,0.8,1.01,1.56,151.9959826,152.0175403,-32.80412495,-32.78591693,28356,GDA94,AHD71 - using local Geoid model,2012-12-14,2013-07-05,"
+Data Quality
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2013-07-05
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 - using local Geoid model
+Vertical Datum: MGA56
+Sensor: LiDAR
+Device Name: Leica ALS50-II (S/N: 101m)
+Flying Height (AGL): 1825
+Flying Direction: North West - South East
+Number of Runs: 64
+Number of Cross Runs: 2
+Swath Width: 1046.62
+Description of Aerotriangulation Process Used: N/A
+Description of Rectification Process Used: N/A
+Spatial Accuracy Horizontal: 0.8m
+Spatial Accuracy Vertical: 0.3m
+Average Point Density (per sqm): 1.56
+Nadir Point Density: 1.01
+Laser Return Types: 4 returns (1st 2nd 3rd 4th and intensity)
+Laser FootPrint Size: 0.63
+Data Thinning: N/A
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Surface Type: N/A
+Product Type: Mass Points
+Classification Type: C3
+Grid Resolution: N/A
+Distribution Format: LAS
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+WMS: N/A
+"
+Spatial Services,56,3,y,StAlbans,11-May,NA,ST ALBANS,LAS,1,ALS50 (SN101),3,0.3,0.8,1.04,1.62,150.6961132,150.7181031,-33.50816079,-33.49053431,28356,GDA94,AHD71 - using local Geoid model,2011-05-10,2011-05-27,"HawkesburyNorth, Flightline 27
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1994
+Number of Project Flight Lines: 42
+Flight Line Number: 27
+Average Swath Width: 957 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 25
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1991
+Number of Project Flight Lines: 42
+Flight Line Number: 25
+Average Swath Width: 956meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 26
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2001
+Number of Project Flight Lines: 42
+Flight Line Number: 26
+Average Swath Width: 960meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 30
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2006
+Number of Project Flight Lines: 42
+Flight Line Number: 30
+Average Swath Width: 977meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 29
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2006
+Number of Project Flight Lines: 42
+Flight Line Number: 29
+Average Swath Width: 977meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+HawkesburyNorth, Flightline 28
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-05-12
+Acquisition End Date: 2011-05-12
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2001
+Number of Project Flight Lines: 42
+Flight Line Number: 28
+Average Swath Width: 995meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,55,3,y,Tumut,17-Feb,NA,TUMUT,LAS,2,ALS50 (SN092),3,0.3,0.8,0.25,0.38,147.9922366,148.0140567,-35.49147082,-35.47325689,28355,GDA94,AHD71 - using local Geoid model,2017-02-13,2017-03-28,"Tumut100k, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-02-13
+Acquisition End Date: 2017-02-13
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 3978
+Number of Project Flight Lines: 34
+Flight Line Number: 1
+Average Swath Width: 2541 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.38
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Tumut100k, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-02-13
+Acquisition End Date: 2017-02-13
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 4005
+Number of Project Flight Lines: 34
+Flight Line Number: 3
+Average Swath Width: 2370meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.38
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Tumut100k, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2017-02-22
+Acquisition End Date: 2017-02-22
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA55
+Device Name: ALS50 (SN092)
+Average Flying Height (AGL): 3999
+Number of Project Flight Lines: 34
+Flight Line Number: 2
+Average Swath Width: 2366meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 0.38
+Nadir Point Density: 0.25
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Ulladulla,10-Dec,NA,ULLADULLA,LAS,1,ALS50 (SN101),3,0.3,0.8,1.04,1.62,150.4764373,150.4989134,-35.10859368,-35.09103104,28356,GDA94,AHD71 - using local Geoid model,2010-12-16,2011-04-13,"Nowra, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1973
+Number of Project Flight Lines: 54
+Flight Line Number: 5
+Average Swath Width: 947 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2001
+Number of Project Flight Lines: 54
+Flight Line Number: 4
+Average Swath Width: 964meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1982
+Number of Project Flight Lines: 54
+Flight Line Number: 6
+Average Swath Width: 965meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2001
+Number of Project Flight Lines: 54
+Flight Line Number: 2
+Average Swath Width: 957meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1994
+Number of Project Flight Lines: 54
+Flight Line Number: 3
+Average Swath Width: 953meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Nowra, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2010-12-17
+Acquisition End Date: 2010-12-17
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 1987
+Number of Project Flight Lines: 54
+Flight Line Number: 1
+Average Swath Width: 961meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.04
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,UpperManning,18-Jan,NA,UPPER MANNING,LAS,1,ALS80 (SN8250),3,0.3,0.8,1.22,1.95,151.9202528,151.9416283,-31.99147514,-31.97361293,28356,GDA94,AHD71 - using local Geoid model,2018-01-20,2018-01-20,"Gloucester, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2018-01-20
+Acquisition End Date: 2018-01-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 2748
+Number of Project Flight Lines: 11
+Flight Line Number: 2
+Average Swath Width: 2115 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.95
+Nadir Point Density: 1.22
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Gloucester, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2018-01-20
+Acquisition End Date: 2018-01-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 2759
+Number of Project Flight Lines: 11
+Flight Line Number: 3
+Average Swath Width: 2104meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.95
+Nadir Point Density: 1.22
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Gloucester, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2018-01-20
+Acquisition End Date: 2018-01-20
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS80 (SN8250)
+Average Flying Height (AGL): 2754
+Number of Project Flight Lines: 11
+Flight Line Number: 1
+Average Swath Width: 2048meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.95
+Nadir Point Density: 1.22
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Wallerwang,11-Aug,NA,WALLERAWANG,LAS,1,ALS50 (SN101),3,0.3,0.8,1,1.5,150.0508282,150.072937,-33.49447222,-33.47696682,28356,GDA94,AHD71 - using local Geoid model,2011-08-03,2011-08-03,"LithgowTown, Flightline 19
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2746
+Number of Project Flight Lines: 29
+Flight Line Number: 19
+Average Swath Width: 1466 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 25
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2750
+Number of Project Flight Lines: 29
+Flight Line Number: 25
+Average Swath Width: 1449meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 24
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2748
+Number of Project Flight Lines: 29
+Flight Line Number: 24
+Average Swath Width: 1443meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 23
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2729
+Number of Project Flight Lines: 29
+Flight Line Number: 23
+Average Swath Width: 1419meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 20
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2745
+Number of Project Flight Lines: 29
+Flight Line Number: 20
+Average Swath Width: 1418meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 21
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2739
+Number of Project Flight Lines: 29
+Flight Line Number: 21
+Average Swath Width: 1400meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 18
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2743
+Number of Project Flight Lines: 29
+Flight Line Number: 18
+Average Swath Width: 1417meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+LithgowTown, Flightline 22
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-08-03
+Acquisition End Date: 2011-08-03
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2764
+Number of Project Flight Lines: 29
+Flight Line Number: 22
+Average Swath Width: 1433meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.50
+Nadir Point Density: 1.00
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Wingham,12-Aug,NA,WINGHAM,LAS,1,ALS50 (SN101),3,0.3,0.8,1.03,1.62,152.2377964,152.2591122,-31.99378,-31.97586325,28356,GDA94,AHD71 - using local Geoid model,2012-08-17,2012-12-14,"Forster, Flightline 1
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2100
+Number of Project Flight Lines: 60
+Flight Line Number: 1
+Average Swath Width: 905 meters
+Spatial Accuracy Horizontal: +/-0.80 @95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 3
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2103
+Number of Project Flight Lines: 60
+Flight Line Number: 3
+Average Swath Width: 907meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 6
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2104
+Number of Project Flight Lines: 60
+Flight Line Number: 6
+Average Swath Width: 903meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 4
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-12-14
+Acquisition End Date: 2012-12-14
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2087
+Number of Project Flight Lines: 60
+Flight Line Number: 4
+Average Swath Width: 903meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 5
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-09-08
+Acquisition End Date: 2012-09-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2090
+Number of Project Flight Lines: 60
+Flight Line Number: 5
+Average Swath Width: 963meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+Forster, Flightline 2
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2012-09-08
+Acquisition End Date: 2012-09-08
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 (using local Geoid model)
+MGA Zone: MGA56
+Device Name: ALS50 (SN101)
+Average Flying Height (AGL): 2113
+Number of Project Flight Lines: 60
+Flight Line Number: 2
+Average Swath Width: 915meters
+Spatial Accuracy Horizontal: +/-0.80@95% Confidence Interval
+Spatial Accuracy Vertical: +/-0.30 @95% Confidence Interval
+Average Point Density (per sqm): 1.62
+Nadir Point Density: 1.03
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Product Type: Mass Points
+Classification Type: Classification Level 3
+Distribution Format: las
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+"
+Spatial Services,56,3,y,Wollongong,11-Feb,NA,Wollongong,LAS 1.2,3,ALS50ii,3,0.3,0.8,1.05,1.65,150.5676516,150.5898659,-34.245445,-34.2269953,28356,GDA94,AHD71 - using local Geoid model,2011-02-19,2011-02-25,"
+Data Quality
+
+Data Lineage
+NEDF Metadata
+Acquisition Start Date: 2011-02-19
+Acquisition End Date: 2011-02-25
+Horizontal Datum: GDA94
+Vertical Datum: AHD71 - using local Geoid model
+Vertical Datum: MGA56
+Sensor: LiDAR
+Device Name: Leica ALS50-II (S/N: 101m)
+Flying Height (AGL): 2199
+Flying Direction: North-South
+Number of Runs: 29
+Number of Cross Runs: 1
+Swath Width: 870
+Description of Aerotriangulation Process Used: N/A
+Description of Rectification Process Used: N/A
+Spatial Accuracy Horizontal: 0.8m
+Spatial Accuracy Vertical: 0.3m
+Average Point Density (per sqm): 1.65
+Nadir Point Density: 1.05
+Laser Return Types: (1st 2nd 3rd 4th and intensity)
+Laser FootPrint Size: 0.61
+Data Thinning: N/A
+Calibration certification (Manufacturer/Cert. Company): DFSI, Spatial Services
+Limitations of the Data: Accuracy specifications (95% CI) meet ICSM Guidelines for Digital Elevation data
+Surface Type: N/A
+Product Type: Mass Points
+Classification Type: C3
+Grid Resolution: N/A
+Distribution Format: LAS
+Processing/Derivation Lineage: As per DFSI, Spatial Services Product Specification
+WMS: N/A
+"
