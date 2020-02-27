@@ -45,6 +45,8 @@ for(i in gons_list){
   gons_all<-st_union(gons_all,i)
 }
 
+st_geod_area(gons_all)
+
 gons_points<-list()
 # assign(paste(gons5$dataset[1]),polygon)
 for(i in c(1:42)){
@@ -52,8 +54,6 @@ for(i in c(1:42)){
     st_transform(32617) %>% 
     st_centroid()
 }
-
-st_geod_area(gons_all)
 
 mapview(gons_points)
 a<-mapview(gons_points,col.regions="blue")
