@@ -2,8 +2,9 @@ library(sf)
 library(tidyverse)
 library(mapview)
 library(rgeos)
+library(lwgeom)
 
-gons<-read_csv(file.choose())
+gons<-read_csv(file="LiDAR data_cleaned.csv")
 gons1<-gons %>%
   select(c(dataset,lon_westbound,lon_eastbound,lat_southbound,lat_northbound)) %>% 
   glimpse()
@@ -44,11 +45,16 @@ for(i in gons_list){
   gons_all<-st_union(gons_all,i)
 }
 
-# pts = st_centroid(gons_all,byid=TRUE)
-# pts <- st_transform(gons_list, 4326) %>% 
-#   st_centroid()
-#   mapview(pts)
+gons_points<-list()
+# assign(paste(gons5$dataset[1]),polygon)
+for(i in c(1:42)){
+  gons_points[[i]]<-gons_list[[i]] %>%
+    st_transform(32617) %>% 
+    st_centroid()
+}
 
-map_aus<-st_read("aust_cd66states.shp")
-a<-mapview(gons_all,col.regions="blue")
+st_geod_area(gons_all)
+
+mapview(gons_points)
+a<-mapview(gons_points,col.regions="blue")
 mapshot(a,file="lidarplots.png")
