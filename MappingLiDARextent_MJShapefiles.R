@@ -1,4 +1,5 @@
 library(sf)
+library(rgeos)
 library(mapview)
 library(tidyverse)
 
@@ -32,9 +33,9 @@ LiDAR3<-LiDAR3 %>%
   ungroup()
   # st_cast("MULTIPOLYGON")
 
-# a<-st_union(LiDAR1,by_feature=TRUE)
-# d<-st_union(a,b,by_feature=FALSE)
-# d<-st_union(d,c,by_feature=FALSE)
+a<-st_union(a,by_feature=TRUE)
+d<-st_union(a,b,by_feature=FALSE)
+d<-st_union(d,LiDAR3,by_feature=FALSE)
 
 expo<-mapview(list(LiDAR1,LiDAR2,LiDAR3),col.regions= rainbow, at = c(2009:2018), alpha=0, legend =FALSE)
 expo
