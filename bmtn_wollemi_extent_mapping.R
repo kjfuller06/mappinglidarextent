@@ -18,3 +18,5 @@ qtm(extent, fill = "point_density",
 high_density = extent[extent$point_density > 2,]
 qtm(high_density, fill = "point_density",
     borders = NULL)
+
+tot_area = sum(extent$area)/1000
