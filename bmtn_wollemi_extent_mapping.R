@@ -12,7 +12,9 @@ dplyr::filter(ccodes(), NAME %in% "Australia")
 poly = getData("GADM", country = "AUS", level = 1)
 
 tmap_mode("view")
-qtm(extent, fill = "point_density")
+qtm(extent, fill = "point_density",
+    borders = NULL)
 
 high_density = extent[extent$point_density > 2,]
-qtm(high_density, fill = "point_density")
+qtm(high_density, fill = "point_density",
+    borders = NULL)
